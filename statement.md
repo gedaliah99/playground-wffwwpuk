@@ -46,7 +46,6 @@ The result should be ```120```.
 ## Try it for yourself!
 Give it a go and explore the ```map()``` function.
 ```python runnable
-
 variable = ""
 
 x = map(arg1, arg2)
