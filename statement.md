@@ -52,5 +52,18 @@ x = map(arg1, arg2)
 
 ```
 
+### Conclusion
+There you go. A begginer tutorial to the ```map()``` function.
+
+If you're interested in learning more about this function, here are some links that might help you:
+
+https://www.w3schools.com/python/ref_func_map.asp
+
+https://www.geeksforgeeks.org/python-map-function/?ref=gcse
+
+https://docs.python.org/3/library/functions.html#map
+
+https://realpython.com/python-map-function/
+
 Happy Coding,
 @Code-Parser
